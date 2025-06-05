@@ -25,3 +25,7 @@ Click the BSI button to return to the basic mode.
 ## Conclusion
 
 This calculator was built as a mini project to explore Java GUI programming and design user-friendly toggle-based applications. It’s simple, efficient, and a great foundation for future enhancements.
+
+## Tags
+
+Java, Scientific Calculator, Swing, GUI, Mini Project, Engineering Project, GUI Calculator
